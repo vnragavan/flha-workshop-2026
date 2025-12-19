@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: The 1st Workshop on Federated Learning in Healthcare Applications in conjunction with FLICS 2026
 ---
 
 {% include nav.html %}
@@ -46,4 +46,4 @@ For work involving human data, authors should describe the data governance conte
 ## Presentation
 All accepted contributions will be presented at the workshop:
 - Full and short papers: oral talk or lightning talk (to be assigned)
-- Posters: poster session presentation, optionally with a short teaser
+- Posters: poster session presentation,

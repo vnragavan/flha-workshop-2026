@@ -1,5 +1,5 @@
 ---
-title: Organizers
+title: The 1st Workshop on Federated Learning in Healthcare Applications in conjunction with FLICS 2026
 ---
 
 {% include nav.html %}
@@ -7,11 +7,7 @@ title: Organizers
 # Organizers
 
 ## Workshop Chairs
-- **Name**, Affiliation, Country (email)
-- **Name**, Affiliation, Country (email)
+- **Jan Franz Nygård**, Norwegian Institute of Public Health (Jan.Franz.Nygard[at]fhi.no)
+- **Narasimha Raghavan Veeraragavan**, Norwegian Institute of Public Health, (Narasimha.Raghavan.Veeraragavan[at]fhi.no)
 
-## Additional Roles
-- Web chair: Name, Affiliation
-- Publicity chair: Name, Affiliation
 
-If you would like, add short bios (3–5 lines each) highlighting federated learning and healthcare experience.
