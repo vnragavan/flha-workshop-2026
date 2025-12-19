@@ -47,4 +47,4 @@ For work involving human data, authors should describe the data governance conte
 ## Presentation
 All accepted contributions will be presented at the workshop:
 - Full and short papers: oral talk or lightning talk (to be assigned)
-- Posters: poster session presentation,
+- Posters: poster session presentation
