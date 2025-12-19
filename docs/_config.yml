@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Federated Learning in Healthcare Applications (FLHA)
-description: One-day workshop co-located with FLICS 2026
+title: "FLHA 2026 — The 1st Workshop on Federated Learning in Healthcare Applications"
+description: 'Co-located with <a href="https://flics-conference.org/index.php">FLICS 2026</a>'
 url: https://vnragavan.github.io
 baseurl: "/flha-workshop-2026"
 github:
