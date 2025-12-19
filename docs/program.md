@@ -11,9 +11,9 @@ This is a one-day workshop. The final program will be posted after notifications
 ## Tentative Structure
 - Opening remarks
 - Keynote talk (TBD)
-- Paper Session 1 (full and short papers)
+- Paper Session 1 
 - Break
-- Paper Session 2 (full and short papers)
+- Paper Session 2 
 - Poster session and demos
 - Panel or discussion session
 - Closing
