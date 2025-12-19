@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Federated Learning in Healthcare Applications (FLHA)
 description: One-day workshop co-located with FLICS 2026
+url: https://vnragavan.github.io
+baseurl: "/flha-workshop-2026"
