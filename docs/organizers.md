@@ -1,7 +1,6 @@
 ---
-title: The 1st Workshop on Federated Learning in Healthcare Applications in conjunction with FLICS 2026
+title: "FLHA 2026 - The 1st Workshop on Federated Learning in Healthcare Applications"
 ---
-
 {% include nav.html %}
 
 # Organizers
