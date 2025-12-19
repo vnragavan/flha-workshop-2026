@@ -11,6 +11,7 @@ FLHA focuses on federated learning methods, systems, and real-world deployments 
 
 ## Topics of Interest
 Topics include, but are not limited to:
+- Federated survival models
 - Federated optimization and personalization for healthcare
 - Cross-silo learning across institutions and consortia
 - Privacy and security for healthcare FL (secure aggregation, DP, TEEs, cryptography)
