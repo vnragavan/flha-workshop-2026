@@ -25,7 +25,7 @@ Topics include, but are not limited to:
 - Lessons learned from deployments in hospitals and clinical workflows
 
 ## Submission Tracks and Expected Length
-Please choose one track when submitting:
+Submission categories will be determined during the review process. Based on reviewers’ evaluations, each submission may be accepted as a full paper, short/position paper, or poster.
 - **Full papers**: mature contributions with thorough evaluation  
   Recommended length: **8–9 pages** (excluding references)
 - **Short or position papers**: early ideas, focused contributions, lessons learned  

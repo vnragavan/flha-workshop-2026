@@ -16,10 +16,7 @@ All submissions must follow the [FLICS 2026 submission guidelines](https://flics
 
 
 ## Track Selection
-When submitting, select one of:
-- Full paper
-- Short or position paper
-- Poster
+Submission categories will be determined during the review process. Based on reviewers’ evaluations, each submission may be accepted as a full paper, short/position paper, or poster.
 
 ## Originality
 Submissions must be original work and not simultaneously under review elsewhere.
