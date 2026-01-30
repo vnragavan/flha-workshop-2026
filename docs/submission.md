@@ -7,7 +7,7 @@ title: "FLHA 2026 - The 1st Workshop on Federated Learning in Healthcare Applica
 # Submission
 
 ## How to Submit
-Submission site: **TBD** (we will post the official submission link here)
+Submission site: [Easychair link](https://easychair.org/conferences/?conf=flics2026)
 
 ## Format and Anonymity
 All submissions must follow the [FLICS 2026 submission guidelines](https://flics-conference.org/submission.php) and use the conference template (A4 IEEE Manuscript Templates for Conference Proceedings). 
