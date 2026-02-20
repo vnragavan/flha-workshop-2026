@@ -13,9 +13,8 @@ FLHA focuses on federated learning methods, systems, and real-world deployments 
 Topics include, but are not limited to:
 - Federated survival models
 - Federated optimization and personalization for healthcare
-- Cross-silo learning across institutions and consortia
-- Privacy and security for healthcare FL (secure aggregation, DP, TEEs, cryptography)
-- Robustness and reliability (poisoning defenses, monitoring, safe training)
+- Cross-silo and cross-device FL (institutions, consortia, wearables, patient devices)
+- Privacy and security for healthcare FL (secure aggregation, differential privacy, blockchains, and trusted execution environments; attacks and defenses—e.g., poisoning, backdoor, inference; robustness, monitoring, safe training)
 - Fairness and bias mitigation with clinical relevance
 - Handling heterogeneity: non-IID data, label shift, missingness, multi-modal data
 - Federated learning for imaging, EHR, genomics, and remote monitoring
