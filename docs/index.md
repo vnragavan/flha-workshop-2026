@@ -26,9 +26,9 @@ We invite:
 
 ## Important Dates
 All deadlines are Anywhere on Earth (AoE) unless stated otherwise.
-- Workshop paper submission: **May 10, 2026**
-- Paper notification: **May 20, 2026**
-- Camera-ready submission: **May 29, 2026**
+- Workshop paper submission: **April 28 2026**
+- Paper notification: **May 5, 2026**
+- Camera-ready submission: **May 15, 2026**
 
 
 ## Quick Links
