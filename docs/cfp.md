@@ -26,7 +26,7 @@ Topics include, but are not limited to:
 ## Submission Tracks and Expected Length
 Submission categories will be determined during the review process. Based on reviewers’ evaluations, each submission may be accepted as a full paper, short/position paper, or poster.
 - **Full papers**: mature contributions with thorough evaluation  
-  Recommended length: **8–9 pages** (excluding references)
+  Recommended length: **7–8 pages** (excluding references)
 - **Short or position papers**: early ideas, focused contributions, lessons learned  
   Recommended length: **4–6 pages** (excluding references)
 - **Posters**: work in progress, preliminary results, demos, datasets, systems  
